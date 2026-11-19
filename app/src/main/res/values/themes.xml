@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose が UI を描画するため、土台はプレーンな Material テーマを使う -->
+    <style name="Theme.Tanomare" parent="android:Theme.Material.NoActionBar" />
+</resources>
