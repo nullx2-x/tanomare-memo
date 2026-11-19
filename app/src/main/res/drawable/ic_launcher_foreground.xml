@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 白い円＋チェックマーク（頼まれごと完了のイメージ） -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54 m-25,0 a25,25 0 1,0 50,0 a25,25 0 1,0 -50,0" />
+    <path
+        android:fillColor="#0B6E63"
+        android:pathData="M47.5,67 L37,56.5 L41.8,51.7 L47.5,57.4 L66.2,38.7 L71,43.5 Z" />
+</vector>
